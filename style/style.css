@@ -182,6 +182,7 @@ button {
 
 .text-box-icon-section {
   display: flex;
+  justify-content: center;
 }
 
 .text-box-icon-section .icon {
